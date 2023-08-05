@@ -12,6 +12,7 @@ import java.util.UUID;
 @Table(name = "TB_PRODUCTS")
 public class ProductModel extends RepresentationModel<ProductModel> implements Serializable {
 
+    @Serial
     private static final long serialVersionUID = 1L;
 
     @Id
