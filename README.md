@@ -6,5 +6,6 @@ Seguindo tutorial do vídeo de Michelli Brito https://youtu.be/wlYvA2b1BWI.
 # Dependências
 - Spring Web
 - Spring Data JPA
+- MySQL Driver
 - PostgreSQL Driver
 - Validation
